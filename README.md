@@ -7,7 +7,7 @@ License: MIT
 
 게임을 처음 시행하면 다음과 같습니다.
 This is the first screen you execute the game.
-![firstScene](https://github.com/J2020n21/Hangman_pyxel/blob/main/Screenshots/screenshot_playing1.jpg){: width="300" height="300"}
+![firstScene](https://github.com/J2020n21/Hangman_pyxel/blob/main/Screenshots/screenshot_playing1.jpg)
 
 
 좌측상단에는 남은 목숨이, 중앙에는 점수가, 우측 상단에는 사운드 on/off상태를 표시합니다.
